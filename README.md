@@ -1,7 +1,10 @@
 # Portfolio Website Project Created With React && Redux
 
 This Project authored by : [Haris-Maulana] 👌
+<br/>
+
 Github Link : [https://github.com/Haris-mlna]
+
 Instagram Link : [https://instagram.com/harismlnaslm]
 
 Haris Project Technologies =
